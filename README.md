@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Screenshots/Dashboard.png" alt="Dashboard" width="900">
+</p>
+
 # E-Commerce Sales & Customer Analysis 
 Excel | Data Analysis | Business Insights | Visualization
 
